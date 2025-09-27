@@ -1,0 +1,29 @@
+{
+  "name": "qr_code_generator_website",
+  "version": "1.0.0",
+  "description": "QR Code Generator Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrkhalid11/QR_Code_Generator_Website.git"
+  },
+  "keywords": [
+    "QR",
+    "QRCode",
+    "Generator",
+    "Website"
+  ],
+  "author": "Ibrahim Khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrkhalid11/QR_Code_Generator_Website/issues"
+  },
+  "homepage": "https://github.com/ibrkhalid11/QR_Code_Generator_Website#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
